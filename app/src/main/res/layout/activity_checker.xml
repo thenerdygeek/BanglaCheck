@@ -5,7 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".CheckerActivity">
-<ListView
-    android:layout_width=""
-    android:layout_height=""></ListView>
+<TextView
+    android:id="@+id/text_view"
+    android:text="Hello"
+    android:textSize="20sp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    />
 </LinearLayout>
